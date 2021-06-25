@@ -22,6 +22,11 @@ keywords = {System identification, Modal decomposition, EEG dynamics},}
 </figure>
 
 <figure class="half full">
+	<img src="content\img\comp3_quads.gif">
+	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
+</figure>
+
+<figure class="half full">
 	<img src="content\img\square_quad_8_963.gif">
 	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
 </figure>
