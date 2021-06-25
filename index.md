@@ -1,7 +1,7 @@
 # Spatio-temporal Imaging of Brain Networks from EEG Data Using Eigenmodes
 
 ## Reference
-If you find this repo useful in your research, please cite our work. Gotta get those rookie numbers up.
+If you find this repo useful in your research, please cite our work. 
 ```
 @article{GRIFFITH2021102765,
 title = {System identification methods for dynamic models of brain activity},
