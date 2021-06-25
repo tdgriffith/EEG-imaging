@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Spatio-temporal Imaging of Brain Networks from EEG Data Using Eigenmodes
 
 You can use the [editor on GitHub](https://github.com/tdgriffith/EEG-imaging/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
