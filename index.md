@@ -22,7 +22,7 @@ keywords = {System identification, Modal decomposition, EEG dynamics},}
 </figure>
 
 <figure class="half full">
-	<img src="content\img\comp3_quads.png">
+	<img src="content\img\tiled_3_flip.png">
 	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
 </figure>
 
@@ -32,7 +32,17 @@ keywords = {System identification, Modal decomposition, EEG dynamics},}
 </figure>
 
 <figure class="half full">
+	<img src="content\img\tiled_0_flip.png">
+	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
+</figure>
+
+<figure class="half full">
 	<img src="content\img\square_quad_10_614.gif">
+	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
+</figure>
+
+<figure class="half full">
+	<img src="content\img\tiled_14_flip.png">
 	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
 </figure>
 
@@ -42,7 +52,17 @@ keywords = {System identification, Modal decomposition, EEG dynamics},}
 </figure>
 
 <figure class="half full">
+	<img src="content\img\tiled_4_flip.png">
+	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
+</figure>
+
+<figure class="half full">
 	<img src="content\img\square_quad_16.gif">
+	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
+</figure>
+
+<figure class="half full">
+	<img src="content\img\tiled_6_flip.png">
 	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
 </figure>
 
@@ -52,11 +72,26 @@ keywords = {System identification, Modal decomposition, EEG dynamics},}
 </figure>
 
 <figure class="half full">
+	<img src="content\img\tiled_10_flip.png">
+	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
+</figure>
+
+<figure class="half full">
 	<img src="content\img\square_quad_37_315.gif">
 	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
 </figure>
 
 <figure class="half full">
+	<img src="content\img\tiled_13_flip.png">
+	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
+</figure>
+
+<figure class="half full">
 	<img src="content\img\square_quad_43_384.gif">
+	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
+</figure>
+
+<figure class="half full">
+	<img src="content\img\tiled_18_flip.png">
 	<figcaption>Figure 1: Sensor Locations on the Brain</figcaption>
 </figure>
