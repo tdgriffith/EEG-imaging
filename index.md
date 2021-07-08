@@ -109,5 +109,5 @@ keywords = {System identification, Modal decomposition, EEG dynamics},}
 
 <figure class="half full">
 	<img src="content\img\tiled_18_flip.png">
-	<figcaption>Figure 7b: Spatial component 7 from Subject 1 with center of mass (-81, 14, 59)</figcaption>
+	<figcaption>Figure 8b: Spatial component 7 from Subject 1 with center of mass (-81, 14, 59)</figcaption>
 </figure>
