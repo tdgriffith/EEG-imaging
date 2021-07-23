@@ -20,6 +20,7 @@ keywords = {System identification, Modal decomposition, EEG dynamics},}
 ## Mode 1
 <figure class="half full">
 	<img src="content\img\square_quad_4_361.gif">
+	<img src="content\img\tiled_3_flip.png">
 	<figcaption>Figure 1a: 4 hz mode from Subject 1 achieving maximum amplitude at the P7 electrode</figcaption>
 </figure>
 
