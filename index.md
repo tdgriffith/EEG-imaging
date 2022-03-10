@@ -3,17 +3,17 @@
 ## Reference
 If you find this repo useful in your research, please cite our work. 
 ```
-@article{GRIFFITH2021102765,
-title = {System identification methods for dynamic models of brain activity},
-journal = {Biomedical Signal Processing and Control},
-volume = {68},
-pages = {102765},
-year = {2021},
-issn = {1746-8094},
-doi = {https://doi.org/10.1016/j.bspc.2021.102765},
-url = {https://www.sciencedirect.com/science/article/pii/S1746809421003621},
-author = {Tristan D. Griffith and James E. Hubbard},
-keywords = {System identification, Modal decomposition, EEG dynamics},}
+@article{sysid,
+title = {System Identification of Brain Wave Modes Using EEG},
+journal = {},
+volume = {},
+pages = {},
+year = {},
+issn = {},
+doi = {},
+url = {},
+author = {},
+keywords = {},}
 ```
 
 
